@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ramses4" size="300.000000 400.000000" />
+    <ImageTarget name="ramses3" size="300.000000 400.000000" />
+    <ImageTarget name="ramses2" size="300.000000 400.000000" />
+    <ImageTarget name="ramses1" size="300.000000 400.000000" />
+    <ImageTarget name="hormohb5" size="300.000000 400.000000" />
+    <ImageTarget name="hormohb4" size="300.000000 400.000000" />
+    <ImageTarget name="hormohb3" size="300.000000 400.000000" />
+    <ImageTarget name="hormohb2" size="300.000000 400.000000" />
+    <ImageTarget name="hormohb1" size="300.000000 400.000000" />
+    <ImageTarget name="hathor3" size="300.000000 400.200012" />
+    <ImageTarget name="hathor2" size="300.000000 400.200012" />
+    <ImageTarget name="hathor1" size="300.000000 400.200012" />
+    <ImageTarget name="hall3" size="300.000000 225.149109" />
+    <ImageTarget name="hall2" size="300.000000 399.900604" />
+    <ImageTarget name="hall1" size="300.000000 225.149109" />
+    <ImageTarget name="horhob3" size="300.000000 225.000000" />
+    <ImageTarget name="horhob2" size="300.000000 400.000000" />
+    <ImageTarget name="horhob1" size="300.000000 225.000000" />
+    <ImageTarget name="amnhotob3-7" size="300.000000 300.000000" />
+    <ImageTarget name="amnhotob3-6" size="300.000000 300.000000" />
+    <ImageTarget name="amonhotob3-5" size="300.000000 300.000000" />
+    <ImageTarget name="amonhotob3-3" size="300.000000 300.000000" />
+    <ImageTarget name="amonhotob3-2" size="300.000000 300.000000" />
+    <ImageTarget name="amnhotob3-1" size="300.000000 300.000000" />
+    <ImageTarget name="Iwnatside7" size="300.000000 400.000000" />
+    <ImageTarget name="Iwnatside8" size="300.000000 400.000000" />
+    <ImageTarget name="Iwnatside6" size="300.000000 501.113586" />
+    <ImageTarget name="Iwnatnearside5" size="300.000000 400.000000" />
+    <ImageTarget name="Iwnatnearside3" size="300.000000 400.000000" />
+    <ImageTarget name="Iwnatfarside3" size="300.000000 400.000000" />
+    <ImageTarget name="Iwnatfarside4" size="300.000000 400.000000" />
+    <ImageTarget name="Iwnatfarside1" size="300.000000 400.000000" />
+    <ImageTarget name="Iwnitfar" size="300.000000 400.000000" />
+    <ImageTarget name="Iwnatnearside2" size="300.000000 400.000000" />
+    <ImageTarget name="Iwnatfarside2" size="300.000000 400.000000" />
+    <ImageTarget name="Iwnatnearside1" size="300.000000 400.000000" />
+  </Tracking>
+</QCARConfig>
